@@ -1,13 +1,34 @@
 {
-  "name": "fair-delectable-kudu",
-  "version": "1.0.0",
-  "private": true,
-  "dependencies": {
-    "parcel-bundler": "^1.6.1",
-    "next": "^12.1.10",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
-  },
-  "scripts": {},
-  "devDependencies": {}
+"name": "buck-norris",
+"version": "1.0.0",
+"description": "Buck Norris is a meme coin with real punch. Built on BNB Smart Chain, community-powered and Web3 ready.",
+"author": "Manuel Gufler <info@bucknorris.com>",
+"private": true,
+"license": "MIT",
+"homepage": "https://www.bucknorris.com",
+"repository": {
+"type": "git",
+"url": "https://github.com/yachtmaster92/bucknorris"
+},
+"keywords": [
+"buck",
+"bucknorris",
+"meme-coin",
+"crypto",
+"web3",
+"bep20",
+"defi",
+"token"
+],
+"scripts": {
+"start": "parcel index.html",
+"build": "parcel build index.html"
+},
+"dependencies": {
+"parcel-bundler": "^1.6.1",
+"next": "^12.1.0",
+"react": "^17.0.2",
+"react-dom": "^17.0.2"
+},
+"devDependencies": {}
 }
