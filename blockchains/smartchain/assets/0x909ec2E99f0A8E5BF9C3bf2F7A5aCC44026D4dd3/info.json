@@ -1,0 +1,23 @@
+{
+"name": "Buck Norris",
+"symbol": "BUCK",
+"description": "The ultimate meme token with the strength of a roundhouse kick. Buck Norris aims to bring humor and decentralized power to the crypto world.",
+"website": "https://bucknorris.com",
+"explorer": "https://bscscan.com/token/0x909ec2E99f0A8E5BF9C3bf2F7A5aCC44026D4dd3",
+"status": "active",
+"id": "0x909ec2E99f0A8E5BF9C3bf2F7A5aCC44026D4dd3",
+"links": [
+{
+"name": "telegram",
+"url": "https://t.me/bucknorriscoin"
+},
+{
+"name": "twitter",
+"url": "https://twitter.com/BuckNorrisCoin"
+},
+{
+"name": "discord",
+"url": "https://discord.gg/BuckNorris"
+}
+]
+}
